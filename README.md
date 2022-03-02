@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width='100'/>
   </div>
+  
+  logo={https://www.linkedin.com/in/akal-erupe-1b71a4210/}
+  
+  <div id="badges">
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
+https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+  </div>
