@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+<img src="https://giphy.com/embed/YnS7j9pwnECXLMrI4t" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/platzi-it-code-developer-YnS7j9pwnECXLMrI4t">via GIPHY</a></p>
+  </div>
