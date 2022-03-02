@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   </div>
   
   
- <div id="badges">
+ <div id="badges" <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+>
   <a href="https://www.linkedin.com/in/akal-erupe-1b71a4210/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
