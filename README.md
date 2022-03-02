@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width='100'/>
   </div>
   
-  logo={https://www.linkedin.com/in/akal-erupe-1b71a4210/}
   
-  <div id="badges">
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
-  </div>
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/akal-erupe-1b71a4210/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/AkalErupe">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
