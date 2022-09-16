@@ -1,24 +1,15 @@
-### Hi there 👋
+### Jambo, I am ***Akal Erupe*** 👋
 
-<!--
-**akalerupe/akalerupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious mind with a passion for solving real-time problems using tech.
+I am fascinated  with the wonder that is the human brain and is constantly trying to do the "impossible".
+Currently well versed in Django, Kotlin,React and Docker services.
+Learning Node.js and Go.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width='100'/>
-  </div>
-  
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akalerupe&layout=compact&theme=dark&hide_border=true)
+
+![akalerupe's github stats](https://github-readme-stats.vercel.app/api?username=akalerupe&show_icons=true&hide_border=true&theme=dark)
+
  <div id="badges" >
   <img src="https://komarev.com/ghpvc/?akalerupe&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/akal-erupe-1b71a4210/">
