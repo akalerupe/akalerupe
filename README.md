@@ -1,10 +1,13 @@
 ### Jambo, I am ***Akal Erupe*** 👋
+### A lover of potatoes and everything code!
 
-A curious mind with a passion for solving real-time problems using tech.
-I am fascinated  with the wonder that is the human brain and is constantly trying to do the "impossible".
-Currently well versed in Django, Kotlin,React and Docker services.
-Learning Node.js and Go.
-
+Driven by the fact that if properly harnessed Technology has the ability
+    to stimulate positive change in society.For her programming languages are only tools
+    to achieve a particular goal. Suffice to say, she is not tied down to a specific 
+    language ot framework. She is open to learning new technologies to maximize consumer
+    impact. To her programming is an art form to be consumed like any other.She is constantly
+     striving to write clean and aesthetically pleasing code.When she's not coding you'll 
+     probably finding her eating Potatoes or reading African Literature. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akalerupe&layout=compact&theme=dark&hide_border=true)
 
