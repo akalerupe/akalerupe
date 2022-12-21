@@ -5,10 +5,6 @@ Driven by the fact that if properly harnessed Technology has the ability
      striving to write clean and aesthetically pleasing code.When she's not coding you'll 
      probably finding her eating Potatoes or reading African Literature. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akalerupe&layout=compact&theme=dark&hide_border=true)
-
-![akalerupe's github stats](https://github-readme-stats.vercel.app/api?username=akalerupe&show_icons=true&hide_border=true&theme=dark)
-
  <div id="badges" >
   <img src="https://komarev.com/ghpvc/?akalerupe&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/akal-erupe-1b71a4210/">
