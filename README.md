@@ -1,4 +1,4 @@
-## Jambo, I am ***Akal Erupe*** 👋
+## Jambo, I am ***thislawyercodes*** 👋
 ### A lover of potatoes and everything code!
 Driven by the fact that if properly harnessed Technology has the ability
     to stimulate positive change in society.She sees programming as an art form to be consumed  just like any other.She is constantly
